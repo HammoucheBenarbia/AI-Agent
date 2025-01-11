@@ -1,8 +1,8 @@
 {
-  "endpoint_name": "Customer",
-  "id": "503b91ff-1c16-4cf0-91b6-4ee8ee007ac5",
+  "endpoint_name": "YOUR ENDPOINT",
+  "id": "YOUR LANGFLOW ID",
   "tags": null,
-  "folder_id": "770d86af-ffff-4019-859a-806533580822",
+  "folder_id": "YOUR FOLDER",
   "gradient": null,
   "data": {
     "nodes": [
